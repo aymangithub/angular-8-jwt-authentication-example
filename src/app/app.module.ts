@@ -18,7 +18,8 @@ import { LoginComponent } from './login';
         BrowserModule,
         ReactiveFormsModule,
         HttpClientModule,
-        appRoutingModule
+        appRoutingModule,
+        
     ],
     declarations: [
         AppComponent,
